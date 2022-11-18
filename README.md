@@ -9,7 +9,7 @@ _**Authors:**_ [**Lukas Dolezal**](https://www.linkedin.com/in/lukas-dolezal75/)
 Our task was to build a predictive model and a proper customers profiling for promoting time deposits.
 We conducted data mining tasks like classification, segmentation or dependency analysis in a sample of 120 000 bank customers, for which we had an indication whether they have opened term deposit account or not. 
 
-## ***STEPS***
+### ***STEPS***
 1. Exploratory analysis
 2. Split to training and testing set
 3. Training data oversampling and/or undersampling 
