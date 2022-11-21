@@ -7,7 +7,7 @@ Such project is conducted using Python.
 _**Authors:**_ [**Lukas Dolezal**](https://www.linkedin.com/in/lukas-dolezal75/), [**Adrian Harvan**](https://www.linkedin.com/in/adrian-harvan/), [**Peter Kachnic**](https://www.linkedin.com/in/peterkachnic/), [**Katerina Nekvindova**](https://www.linkedin.com/in/kateřina-nekvindová-119050178)
 
 Our task was to build a predictive model and a proper customers profiling for promoting time deposits.
-We conducted data mining tasks like classification, segmentation or dependency analysis in a sample of 120 000 bank customers, for which we had an indication whether they have opened term deposit account or not. 
+We conducted data mining tasks like classification, segmentation or dependency analysis in a sample of 10 000 bank customers, for which we had an indication whether they have opened term deposit account or not. 
 
 
 ### **STEPS**
